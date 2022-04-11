@@ -1,0 +1,23 @@
+{
+  "name": "omrudra",
+  "version": "1.0.0",
+  "description": "This is backend for OmRudra website",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilKuYadav/OmRudra-Node.git"
+  },
+  "keywords": [
+    "omrudra",
+    "Node"
+  ],
+  "author": "Sunil Kumar Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SunilKuYadav/OmRudra-Node/issues"
+  },
+  "homepage": "https://github.com/SunilKuYadav/OmRudra-Node#readme"
+}
